@@ -4,6 +4,10 @@ This project was bootstrapped with Create React App.
 Getting Started
 
 In the project directory, you can run:
+code . to open VS code 
+then you type cd backend 
+and then node server.js to run the server
+then back in the command prompt folder type
 npm start
 
 Open http://localhost:3000 to view it in your browser after using npm start.
